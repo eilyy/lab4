@@ -1,5 +1,5 @@
 # lab4
 
 Credits:
-Ilya Evdokimov
+Ilya Evdokimov,
 Lev Belous
